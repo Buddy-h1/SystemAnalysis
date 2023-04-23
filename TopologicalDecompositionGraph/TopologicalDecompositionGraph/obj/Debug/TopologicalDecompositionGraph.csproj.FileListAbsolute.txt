@@ -1,0 +1,13 @@
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\bin\Debug\TopologicalDecompositionGraph.exe.config
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\bin\Debug\TopologicalDecompositionGraph.exe
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\bin\Debug\TopologicalDecompositionGraph.pdb
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\bin\Debug\MaterialSkin.dll
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\obj\Debug\TopologicalDecompositionGraph.csproj.AssemblyReference.cache
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\obj\Debug\TopologicalDecompositionGraph.csproj.SuggestedBindingRedirects.cache
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\obj\Debug\TopologicalDecompositionGraph.MainForm.resources
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\obj\Debug\TopologicalDecompositionGraph.Properties.Resources.resources
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\obj\Debug\TopologicalDecompositionGraph.csproj.GenerateResource.cache
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\obj\Debug\TopologicalDecompositionGraph.csproj.CoreCompileInputs.cache
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\obj\Debug\TopologicalDecompositionGraph.csproj.CopyComplete
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\obj\Debug\TopologicalDecompositionGraph.exe
+C:\Users\buddy\source\repos\TopologicalDecompositionGraph\TopologicalDecompositionGraph\obj\Debug\TopologicalDecompositionGraph.pdb
