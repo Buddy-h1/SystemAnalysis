@@ -1,0 +1,13 @@
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\bin\Debug\GraphStructureConnectivity.exe.config
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\bin\Debug\GraphStructureConnectivity.exe
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\bin\Debug\GraphStructureConnectivity.pdb
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\bin\Debug\MaterialSkin.dll
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\obj\Debug\GraphStructureConnectivity.csproj.AssemblyReference.cache
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\obj\Debug\GraphStructureConnectivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\obj\Debug\GraphStructureConnectivity.MainForm.resources
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\obj\Debug\GraphStructureConnectivity.Properties.Resources.resources
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\obj\Debug\GraphStructureConnectivity.csproj.GenerateResource.cache
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\obj\Debug\GraphStructureConnectivity.csproj.CoreCompileInputs.cache
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\obj\Debug\GraphStructureConnectivity.csproj.CopyComplete
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\obj\Debug\GraphStructureConnectivity.exe
+C:\Users\buddy\source\repos\GraphStructureConnectivity\GraphStructureConnectivity\obj\Debug\GraphStructureConnectivity.pdb
