@@ -1,0 +1,11 @@
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\bin\Debug\SearchShortWayGraph.exe.config
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\bin\Debug\SearchShortWayGraph.exe
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\bin\Debug\SearchShortWayGraph.pdb
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\bin\Debug\MaterialSkin.dll
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\obj\Debug\SearchShortWayGraph.MainForm.resources
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\obj\Debug\SearchShortWayGraph.Properties.Resources.resources
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\obj\Debug\SearchShortWayGraph.csproj.GenerateResource.cache
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\obj\Debug\SearchShortWayGraph.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\obj\Debug\SearchShortWayGraph.csproj.CopyComplete
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\obj\Debug\SearchShortWayGraph.exe
+C:\Users\я\source\repos\SearchShortWayGraph\SearchShortWayGraph\obj\Debug\SearchShortWayGraph.pdb
